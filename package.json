@@ -1,0 +1,6 @@
+{
+    "name": "please-work",
+    "dependencies": {
+        "dawa-autocomplete2": "^1.0.2"
+    }
+}
